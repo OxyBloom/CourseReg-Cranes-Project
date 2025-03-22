@@ -11,7 +11,6 @@ Sqlite3 - Database
 
 GTK - For Gui Design
 
-```
 Install dependencies with sudo apt
 ```
 sudo apt install sqlite3
